@@ -1,5 +1,5 @@
 # Hardware
-- Tela tft touch st7735
+- Tela tft touch st7789
 - esp 32c3
 
 # Bibliotecas
